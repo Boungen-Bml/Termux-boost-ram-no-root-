@@ -6,25 +6,25 @@ Note: This script does not directly boost performance. It is suitable for users 
 For gamers, this script may help improve the gaming experience by clearing cache, freeing up system resources, and potentially improving data read/write performance. Closing apps or using RAM-clearing commands may also free up memory for games, helping reduce unexpected game crashes and improve stability. 🔥
 
 
-pkg install aapt -y
+'''pkg install aapt -y'''
 
-sh /sdcard/Download/rish -c "cat /sdcard/Download/rish" > ~/rish
+'''sh /sdcard/Download/rish -c "cat /sdcard/Download/rish" > ~/rish'''
 
-sh /sdcard/Download/rish -c "cat /sdcard/Download/rish_shizuku.dex" > ~/rish_shizuku.dex
+'''sh /sdcard/Download/rish -c "cat /sdcard/Download/rish_shizuku.dex" > ~/rish_shizuku.dex'''
 
-chmod +x ~/rish ~/rish_shizuku.dex
+'''chmod +x ~/rish ~/rish_shizuku.dex'''
 
-~/rish -c "echo OK”
+'''~/rish -c "echo OK”'''
 
-ls ~/turbo.sh
+'''ls ~/turbo.sh'''
 
-sh /sdcard/Download/rish -c "cat /sdcard/Download/turbo.sh" > ~/turbo.sh
-chmod +x ~/turbo.sh
+'''sh /sdcard/Download/rish -c "cat /sdcard/Download/turbo.sh" > ~/turbo.sh'''
 
-bash turbo.sh
+'''chmod +x ~/turbo.sh'''
 
-ls ~/rish ~/rish_shizuku.dex
-~/rish -c "echo OK"
-ls ~/turbo.sh
+'''ls ~/rish ~/rish_shizuku.dex
+~/rish -c "echo OK"'''
 
-bash turbo.sh
+'''ls ~/turbo.sh'''
+
+'''bash turbo.sh'''
