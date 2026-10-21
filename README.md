@@ -7,13 +7,13 @@ For gamers, this script may help improve the gaming experience by clearing cache
 
 ```termux-setup-storage```
 
-```sh /sdcard/Download/rish -c "cat /sdcard/Download/rish" > ~/rish```
+```sh /sdcard/Ko/rish -c "cat /sdcard/Ko/rish" > ~/rish```
 
-```sh /sdcard/Download/rish -c "cat /sdcard/Download/rish_shizuku.dex" > ~/rish_shizuku.dex```
+```sh /sdcard/Ko/rish -c "cat /sdcard/Ko/rish_shizuku.dex" > ~/rish_shizuku.dex```
 
 ```chmod +x ~/rish ~/rish_shizuku.dex```
 
-```sh /sdcard/Download/rish -c "cat /sdcard/Download/turbo.sh" > ~/turbo.sh```
+```sh /sdcard/Ko/rish -c "cat /sdcard/Ko/turbo.sh" > ~/turbo.sh```
 
 ```chmod +x ~/turbo.sh```
 
