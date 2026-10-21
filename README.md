@@ -17,4 +17,6 @@ For gamers, this script may help improve the gaming experience by clearing cache
 
 ```chmod +x ~/turbo.sh```
 
+```cp /sdcard/Download/turbo.sh ~/```
+
 ```bash turbo.sh```
