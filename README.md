@@ -1,5 +1,6 @@
 # Termux-boost-ram-no-root-
 What You Need to Prepare: The Termux app and the Shizuku app. A script that you can download from the link below. ⬇️ Watch the tutorial on YouTube before using it to avoid any errors. 🛑
+https://youtu.be/rdFq1eQ0K3g?si=-wivLtmsDeV0cRgv
 
 Note: This script does not directly boost performance. It is suitable for users who want to clear cache quickly and reduce the activity of unnecessary apps, or stop them from running entirely, to save battery and indirectly reduce CPU workload.
 
